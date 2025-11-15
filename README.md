@@ -1,11 +1,19 @@
-<div align="center">
+# Arithmetic Sprint
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+This is an adaptive, timed arithmetic test for students. This is a fully client-side demo application using an in-memory database.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+-   **Adaptive Learning:** Questions adjust to the student's skill level.
+-   **Multi-User System:** Separate views for Admins, Teachers, and Students.
+-   **Class Management:** Teachers can create classes and manage students.
+-   **AI-Powered Feedback:** Uses the Gemini API to analyze student performance and provide actionable insights for teachers and students.
+-   **In-Memory Database:** All data is reset when the application is reloaded.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+---
 
-</div>
+## Project Documentation
+
+-   **[Deployment Guide](./DEPLOYMENT.md):** Instructions on how to set up and run the application locally.
+-   **[User Guide](./USERS.md):** A list of all pre-populated users and how to log in as them.
+-   **[Progress Log](./PROGRESS.md):** A summary of development requests and implementation responses.

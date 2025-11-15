@@ -1,0 +1,5 @@
+{
+  "name": "Vector Arithmetic Sprint",
+  "description": "An adaptive, timed arithmetic test for students. Teachers can configure difficulty levels, and the app uses an LLM to analyze student mistakes and provide feedback. Question difficulty is measured through a vector of difficulties to make the challenge more varied for students and allow them to improve each part of arithmetic in all areas of strengths and improves the ai assessment of their abilities. ",
+  "requestFramePermissions": []
+}
